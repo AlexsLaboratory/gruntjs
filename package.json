@@ -1,0 +1,10 @@
+{
+  "name": "gruntjs",
+  "version": "1.0.0",
+  "description": "gruntjs workflow",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Web-App-Dev/gruntjs.git"
+  },
+}
